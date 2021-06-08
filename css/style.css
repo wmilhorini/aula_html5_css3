@@ -1,0 +1,44 @@
+body {
+    background: yellowgreen;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+    color:rgb(17, 46, 141);
+}
+
+.img_padrao {
+    margin-bottom:50px;
+}
+
+.logo {
+    width: 30px;
+}
+
+batman{
+    color:black
+}
+
+superman{
+    color:blue
+}
+
